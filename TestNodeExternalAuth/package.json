@@ -1,0 +1,10 @@
+{
+  "name": "TestNodeExternalAuth",
+  "version": "0.0.0",
+  "description": "TestNodeExternalAuth",
+  "main": "server.js",
+  "author": {
+    "name": "anton.matseichyk",
+    "email": ""
+  }
+}
